@@ -1,6 +1,5 @@
 from typing import Literal
 
-
 def positive(l):
     result=[]
     for i in l:
